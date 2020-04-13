@@ -1,0 +1,18 @@
+
+.register{
+  display: flex;
+  justify-content: center;
+  margin-top:20px;
+  
+}
+
+.registerBt{
+  width: 120px;
+  margin-top: 20px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

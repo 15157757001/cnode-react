@@ -1,0 +1,29 @@
+.topice-top{
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f5f5f5;
+  overflow: hidden;
+}
+
+.topice-top-top{
+  font-size: 22px;
+  font-weight: 700;
+  margin: 8px 0;
+  display: inline-block;
+  vertical-align: bottom;
+  width: 75%;
+  line-height: 130%;
+}
+
+.topice-top-bottom span{
+  font-size: 12px;
+  color: #838383;
+}
+
+.topice-top-bottom span::before{
+  content: "•";
+  margin: 0 4px;
+}
+
+.topice-top-right{
+  float: right;
+}

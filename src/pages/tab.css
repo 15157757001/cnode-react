@@ -1,0 +1,32 @@
+
+.normal {
+  background: #E2F279;
+}
+
+.count_of_replies{
+  color:#9e78c0;
+}
+.put_top{
+  background: #80bd01;
+  padding: 2px 4px;
+  margin-right: 5px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 3px;
+}
+.topiclist-tab{
+  background: #e5e5e5;
+  padding: 2px 4px;
+  margin-right: 5px;
+  font-size: 12px;
+  color: #999;
+  border-radius: 3px;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+.tab{
+  padding: 24px;
+  background-color: #fff;
+}

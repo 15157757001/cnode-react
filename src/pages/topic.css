@@ -1,0 +1,23 @@
+
+.topice_content{
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 0 24px 10px;
+  min-height: 200px;
+}
+
+.topice_author{
+  color:#778087;
+}
+
+.topice_card_head{
+  margin-bottom: 10px;
+}
+
+
+
+.topice_replies{
+  margin-bottom: 20px;
+  background-color: #fff;
+  border-radius: 4px;
+}

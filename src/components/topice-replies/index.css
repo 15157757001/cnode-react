@@ -1,0 +1,14 @@
+.topice-replies{
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.topice-replies-top{
+  padding: 10px;
+  background-color: #f6f6f6;
+  border-radius: 3px 3px 0 0;
+}
+
+.topice-replies-list{
+  padding: 0 10px;
+}

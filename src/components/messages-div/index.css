@@ -1,0 +1,15 @@
+.messagesDiv-style{
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.messagesDiv-top{
+  padding: 10px; 
+  background-color: #f6f6f6;
+  border-radius: 3px 3px 0 0;
+}
+
+.messagesDiv-bottom{
+  padding: 10px;
+  
+}
