@@ -1,1 +1,3 @@
 # cnode-react
+
+npm strat
